@@ -1,6 +1,13 @@
 package com.ch01;
 
 public class Hello {
+	
+	
+	public void Hello(){
+		
+		
+		System.out.println("Hello");
+	}
 
 	public static void main(String[] args) {
 	
